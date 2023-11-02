@@ -1,4 +1,4 @@
-# treino-oid
+# treinamento
 Treinando GIT e GIthub no Mac OS
 
 ### Comandos base para não esquecer:
