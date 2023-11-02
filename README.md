@@ -3,9 +3,9 @@ Treinando GIT e GIthub no Mac OS
 
 ### Comandos base para não esquecer:
 
-git status
-git add
-git commit 
+- git status
+- git add
+- git commit 
 
 #### Links importantes
 Criação de README (https://readme.so/pt/editor)
