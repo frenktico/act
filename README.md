@@ -6,6 +6,14 @@ Treinando GIT e GIthub no Mac OS
 - git status
 - git add
 - git commit 
+- git pull
+- git push
+
+#### Comandos úteis do dia-a-dia:
+
+- git fetch
+- git log
+- git stash (apaga o que foi modificado e não queremos que seja atualizado)
 
 #### Links importantes
 Criação de README (https://readme.so/pt/editor)
